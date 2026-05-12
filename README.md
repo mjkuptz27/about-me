@@ -1,2 +1,2 @@
-# about-me
-My first GitHub project
+# About Me  My name is Matthew
+Intrests are video games and snowboarding.
